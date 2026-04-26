@@ -2,11 +2,13 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
+
+---
 
 ## 🧩 Data Model View
 
-![Model](model_view.png)
+![Model_View](model_view.png.png)
 
 ## 📌 Project Overview
 
